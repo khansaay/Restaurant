@@ -1,0 +1,51 @@
+body {
+     background-color: #E8A317;
+
+    background-size: cover;
+    margin: 50px 70px;
+    font-family: "Times New Roman", Times, serif;
+    color: white;
+}
+.T1{
+     border-collapse: separate;
+     border-spacing: 15px;
+}
+.link
+{
+    height: 40px;
+    width: 2000px;
+    font-size: 20px;
+    background-color:#464041;
+    text-align: center;
+}
+
+a {
+
+  text-decoration: none;
+  font-weight: bold;
+  color:white;
+  opacity: 1;
+}
+.T2
+{
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 15px;
+
+}
+.T2R1 {
+  width: 90%;
+  text-align: left;
+ }
+.imgtacos {
+  width: 90%;
+  height: 300px
+}
+.price{
+    text-align: center;
+    width : 20%;
+    background-color:#464041;
+    font-weight: bold;
+    font-size: 20px;
+    height: 100px;
+}
